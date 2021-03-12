@@ -1,16 +1,18 @@
-pymatgen\.alchemy package
-=========================
+pymatgen.alchemy package
+========================
 
 Subpackages
 -----------
 
 .. toctree::
+   :maxdepth: 7
 
 
 Submodules
 ----------
 
 .. toctree::
+   :maxdepth: 7
 
    pymatgen.alchemy.filters
    pymatgen.alchemy.materials
@@ -20,6 +22,6 @@ Module contents
 ---------------
 
 .. automodule:: pymatgen.alchemy
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   :members:
+   :undoc-members:
+   :show-inheritance:

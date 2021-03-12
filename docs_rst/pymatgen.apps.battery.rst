@@ -1,10 +1,18 @@
-pymatgen\.apps\.battery package
-===============================
+pymatgen.apps.battery package
+=============================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 7
+
 
 Submodules
 ----------
 
 .. toctree::
+   :maxdepth: 7
 
    pymatgen.apps.battery.analyzer
    pymatgen.apps.battery.battery_abc
@@ -16,6 +24,6 @@ Module contents
 ---------------
 
 .. automodule:: pymatgen.apps.battery
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   :members:
+   :undoc-members:
+   :show-inheritance:
